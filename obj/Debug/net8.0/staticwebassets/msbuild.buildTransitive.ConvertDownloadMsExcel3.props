@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ConvertDownloadMsExcel3.props" />
+</Project>

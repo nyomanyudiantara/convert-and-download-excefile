@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <h2>Download Product Excel Report</h2>
+
+    <form method="get" action="/GenerateExcel/GenerateExcel">
+        <button type="submit" class="btn btn-primary">Download Excel</button>
+    </form>
+
+    <br />
+    <br />
+
+    <h2>Download Product PDF Report</h2>
+
+    <form method="get" action="/GenerateExcel/GeneratePdf">
+        <button type="submit" class="btn btn-danger">Download PDF</button>
+    </form>
+</div>
+

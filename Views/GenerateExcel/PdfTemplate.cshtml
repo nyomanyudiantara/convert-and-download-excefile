@@ -1,0 +1,14 @@
+﻿@model List<ConvertDownloadMsExcel3.Models.ProductModel>
+
+<h2>Product Report</h2>
+<table border="1" cellpadding="5">
+    <tr><th>Name</th><th>Description</th><th>Price</th></tr>
+    @foreach (var product in Model)
+    {
+        <tr>
+            <td>@product.Name</td>
+            <td>@product.Description</td>
+            <td>@product.Price</td>
+        </tr>
+    }
+</table>
