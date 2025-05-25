@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+    </style>
+
+</head>
+<body>
+    <table style="width:100%;">
+        <thead>
+            <tr style="font-weight:bold;">
+                <td>Product Name</td>
+                <td>Description</td>
+                <td>Price</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>Mouse</td><td>Laptop Mouse</td><td>300</td></tr><tr><td>Desktop</td><td>HP Desktop</td><td>2300</td></tr><tr><td>Speaker</td><td>Boat Speaker</td><td>700</td></tr><tr><td>Printer</td><td>HP Printer</td><td>4300</td></tr><tr><td>Key Board</td><td>DELL Key Board</td><td>200</td></tr><tr><td>Camera</td><td>Nikon Camera</td><td>1000</td></tr><tr><td>Scanner</td><td>Xerox Scanner</td><td>8000</td></tr>
+
+        </tbody>
+    </table>
+</body>
+</html>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConvertDownloadMsExcel3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e512cee213a57e59b4a2a1d4798ed4e8dca802a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConvertDownloadMsExcel3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConvertDownloadMsExcel3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

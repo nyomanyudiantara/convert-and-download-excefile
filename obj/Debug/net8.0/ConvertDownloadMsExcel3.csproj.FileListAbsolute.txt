@@ -31,3 +31,4 @@ C:\Users\a mutan\source\repos\ConvertDownloadMsExcel3\ConvertDownloadMsExcel3\ob
 C:\Users\a mutan\source\repos\ConvertDownloadMsExcel3\ConvertDownloadMsExcel3\obj\Debug\net8.0\ConvertDownloadMsExcel3.pdb
 C:\Users\a mutan\source\repos\ConvertDownloadMsExcel3\ConvertDownloadMsExcel3\obj\Debug\net8.0\ConvertDownloadMsExcel3.genruntimeconfig.cache
 C:\Users\a mutan\source\repos\ConvertDownloadMsExcel3\ConvertDownloadMsExcel3\obj\Debug\net8.0\ref\ConvertDownloadMsExcel3.dll
+C:\Users\a mutan\source\repos\ConvertDownloadMsExcel3\ConvertDownloadMsExcel3\obj\Debug\net8.0\ConvertDownloadMsExcel3.sourcelink.json
